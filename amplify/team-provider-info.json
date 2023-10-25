@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-simpleconcierge-dev-115544-authRole",
+      "UnauthRoleArn": "arn:aws:iam::459525634969:role/amplify-simpleconcierge-dev-115544-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::459525634969:role/amplify-simpleconcierge-dev-115544-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-simpleconcierge-dev-115544-deployment",
+      "UnauthRoleName": "amplify-simpleconcierge-dev-115544-unauthRole",
+      "StackName": "amplify-simpleconcierge-dev-115544",
+      "StackId": "arn:aws:cloudformation:us-west-2:459525634969:stack/amplify-simpleconcierge-dev-115544/f0243cd0-729e-11ee-a805-0687caf5c0e3",
+      "AmplifyAppId": "d3t0h5r8o70n2p"
+    },
+    "categories": {
+      "auth": {
+        "simpleconcierged43e2cf7": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "simpleconcierge": {}
+      }
+    }
+  }
+}
